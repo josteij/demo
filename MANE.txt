@@ -1,0 +1,21 @@
+
+MARCH 2022: https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/105.20220307/
+refSeq Select file: GCF_000001405.25_GRCh37.p13_genomic.gff - 19199 genes with 1 refSeq Select transcript
+DO NOT contain any information on MANE select
+
+
+MARCH 2022: https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/annotation_releases/current/
+refSeq Select file: GCF_000001405.39_GRCh38.p13_genomic.gff - 18567 genes with MANE select transcript
+CONTAINS information on MANE select.
+
+
+refGene_hg19_2020-11-13.tsv: file created from refGene-tools - OUS uses this file in current version of Genepanel-builder. Supposed to use ncbirefseqcurated table in future.
+
+
+
+17865 genes with refSeq select in GRCh37 with equal MANE select refseq transcript in HG38.
+702 genes with refSeq select in GRCh37 MISSING MANE select refseq transcript in HG38.
+
+
+18183 of 19199 refSeq select transcripts is also in refGene_hg19_2020-11-13.tsv
+
